@@ -1,0 +1,567 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 5.5 5.5.3.2642 Release
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl surface23
+Ka 0.784314 0.784314 0.784314
+Kd 1 1 1
+Ks 0.784314 0.784314 0.784314
+illum 2
+Ns 51.9842
+map_Kd wood_texture1.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.498039 0.498039 0.498039
+illum 2
+Ns 36.7583
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome0
+Ka 0.843137 0.843137 0.843137
+Kd 0.843137 0.843137 0.843137
+Ks 0.419608 0.419608 0.419608
+illum 2
+Ns 194.012
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome1
+Ka 0.843137 0.843137 0.843137
+Kd 0.843137 0.843137 0.843137
+Ks 0.419608 0.419608 0.419608
+illum 2
+Ns 55.7152
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome2
+Ka 0.698039 0.698039 0.698039
+Kd 0.698039 0.698039 0.698039
+Ks 0.34902 0.34902 0.34902
+illum 2
+Ns 119.428
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome3
+Ka 0.0941177 0.0941177 0.0941177
+Kd 0.0941177 0.0941177 0.0941177
+Ks 0.0941176 0.0941176 0.0941176
+illum 2
+Ns 168.897
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl glass
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.968628 0.968628 0.968628
+illum 2
+Ns 27.8576
+d 0.9
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl surface02
+Ka 0.113725 0.113725 0.113725
+Kd 0.113725 0.113725 0.113725
+Ks 1 1 1
+illum 2
+Ns 36.7583
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl surface03
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 29.8571
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl surface04
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.286275 0.286275 0.286275
+illum 2
+Ns 6.98515
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl surface05
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.286275 0.286275 0.286275
+illum 2
+Ns 6.98515
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl surface06
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.286275 0.286275 0.286275
+illum 2
+Ns 6.98515
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl surface07
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.2 0.2 0.2
+illum 2
+Ns 6.98515
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl surface08
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.168627 0.168627 0.168627
+illum 2
+Ns 6.98515
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl surface09
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.286275 0.286275 0.286275
+illum 2
+Ns 6.98515
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl surface10
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0980392 0.0980392 0.0980392
+illum 2
+Ns 6.98515
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl surface11
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157
+illum 2
+Ns 6.98515
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl surface13
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.286275 0.286275 0.286275
+illum 2
+Ns 6.98515
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl surface14
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.34902 0.34902 0.34902
+illum 2
+Ns 6.98515
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl surface15
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0980392 0.0980392 0.0980392
+illum 2
+Ns 6.98515
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl surface16
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0980392 0.0980392 0.0980392
+illum 2
+Ns 6.98515
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl surface17
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0980392 0.0980392 0.0980392
+illum 2
+Ns 6.98515
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl surface18
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0980392 0.0980392 0.0980392
+illum 2
+Ns 6.98515
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__68
+Ka 0.635294 0.917647 0.733333
+Kd 0.635294 0.917647 0.733333
+Ks 0.909804 0.909804 0.909804
+illum 2
+Ns 55.7152
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl surface25
+Ka 0.372549 0.372549 0.372549
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 51.9842
+map_Kd RooftilesCeramic0055_2_L.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl surface01
+Ka 0.635294 0.917647 0.733333
+Kd 1 1 1
+Ks 0.909804 0.909804 0.909804
+illum 2
+Ns 55.7152
+map_Kd BrickLargePainted0026_1_M.jpg
+map_bump BrickLargePainted0026normal.jpg
+bump BrickLargePainted0026normal.jpg
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl surface12
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 51.9842
+map_Kd wood_texture1.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl surface28
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.933333 0.933333 0.933333
+illum 2
+Ns 42.2243
+map_Kd archinterior9_10_dirtwall.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl surface29
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 25.9921
+map_Kd golddomebump.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl surface26
+Ka 1 0.905882 0.933333
+Kd 1 1 1
+Ks 0.972549 0.972549 0.972549
+illum 2
+Ns 59.7141
+map_Kd cobl07S.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl surface27
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.2 0.2 0.2
+illum 2
+Ns 207.937
+map_Kd archinterior9_10_dirtwall.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl _2___Default
+Ka 0.588235 0.588235 0.588235
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 22.6274
+map_Kd flag33S.jpg
+map_bump flag33Sb.jpg
+bump flag33Sb.jpg
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl _3___Default
+Ka 0.588235 0.588235 0.588235
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 55.7152
+map_Kd TilePattern_7_v6.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl _4___Default
+Ka 0.588235 0.588235 0.588235
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 22.6274
+map_Kd wood_texture1.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl _5___Default
+Ka 0.588235 0.588235 0.588235
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd cut37S.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
